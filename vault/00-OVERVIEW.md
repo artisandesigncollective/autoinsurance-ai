@@ -15,3 +15,6 @@
 - `api/stripe_fee.ts` — $149 Stripe Checkout
 - `api/generate_report.ts` — Forensic valuation RAG engine scraping AutoTrader/CarGurus
 - `.sovereign_memory.md` — Architectural log
+
+---
+?? **Sovereign Empire Hub:** [Master Index](file:///e:/hermes/github_fleet/EMPIRE_VAULT_INDEX.md) | [Command Center](file:///e:/hermes/github_fleet/paperclip-website/frontend/SovereignDashboard.tsx)
